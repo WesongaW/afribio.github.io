@@ -1,2 +1,2 @@
-# afribio.github.io
+# AfribioM
 Remote Biomedical Innovation Hub for Africa
